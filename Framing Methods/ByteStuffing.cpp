@@ -12,7 +12,6 @@ int main() {
 	string seq;
 	cout << "Enter the string: " << endl;
 	cin >> seq;
-	// cout << seq << endl;
 	int flag_count = 0;
 	vector<string> payload;
 	int i = 0, j;
